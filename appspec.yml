@@ -4,6 +4,6 @@ Resources:
       Type: AWS::Lambda::Function
       Properties:
         Name: DeployLambdaWebApp
-        CurentVersion: 1
+        CurrentVersion: 1
         TargetVersion: 2
         Alias: live
