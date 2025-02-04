@@ -13,3 +13,4 @@ phases:
 artifacts:
   files:
     - app.zip
+    - appspec.yml
