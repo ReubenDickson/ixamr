@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function() {git checko
     const loginForm = document.getElementById('login-form');
     const registerForm = document.getElementById('register-form');
     const googleSSO = document.getElementById('google-sso');
