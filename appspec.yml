@@ -1,7 +1,0 @@
-version: 0.0
-Resources:
-  - TargetService:
-      Type: AWS::Lambda
-      Properties:
-        Name: DeployLambdaWebApp
-        Alias: live
