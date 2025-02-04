@@ -5,3 +5,4 @@ Resources:
       Properties:
         Name: DeployLambdaWebApp
         Alias: first_release
+        CurrentVersion: "1"
