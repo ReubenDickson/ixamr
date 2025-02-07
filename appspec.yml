@@ -1,8 +1,9 @@
 version: 0.0
 Resources:
-  - TargetService:
+  - DeployLambdaWebApp:
       Type: AWS::Lambda::Function
       Properties:
-        Name: DeployLambdaWebApp
-        Alias: first_release
+        Name: "DeployLambdaWebApp"
+        Alias: "first_release"
         CurrentVersion: "1"
+        TargetVersion: "2"
